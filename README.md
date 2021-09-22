@@ -1,4 +1,4 @@
-# HarvardX_ICS_Lab-1b
+# Lab-1b
  
 A small program that first prompts the user to type in a starting population number.
 
